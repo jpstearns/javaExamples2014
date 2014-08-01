@@ -1,5 +1,5 @@
 /**
-*@author		Jared Stearns <jared.patrick.stearns@gmail.com>
+*@author		JP Stearns<https://github.com/JPStearns>
 *				Assignment# JavaA4
 *@version	7.0
 *@since		2014-06-16
@@ -20,7 +20,7 @@ public class StockAnalysis
 	{
 
 		//Print the author's name
-		System.out.println("JARED STEARNS\n");
+		System.out.println("JP Stearns\n");
 
 		//Define a new Decimal Format for money and percent ##TODO:(save to boiler plate)
 		DecimalFormat money = new DecimalFormat ("$#,##0.00");
@@ -172,7 +172,7 @@ public class StockAnalysis
 }
 /*
 Run #1
-JARED STEARNS
+JP Stearns
 
 Enter the name of the file: stockdata.txt
 
@@ -198,7 +198,7 @@ The total profit is: $311.80
 Press any key to continue . . .
 
 Run  #2
-JARED STEARNS
+JP Stearns
 
 Enter the name of the file: empty.txt
 

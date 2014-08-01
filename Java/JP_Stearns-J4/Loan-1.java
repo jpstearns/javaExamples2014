@@ -1,10 +1,14 @@
-// YOUR NAME HERE
+/**
+*@author		 JP Stearns<https://github.com/JPStearns>
+*@assignment Assignment# Java4
+*@version	 7.0
+*@since		 2014-06-16
+
+This Class simulates a Loan
+*/
 
 import java.text.DecimalFormat;
 
-/**
-	This class simulates a Loan
-*/
 public class Loan
 {
 	private double annualInterestRate;
@@ -61,7 +65,7 @@ public class Loan
 		return loanAmount;
 	}
 
-	/** Set a new annualInterestRate
+	/** Set a new annualInterestRate
 	  @param rate The annual interest rate
 	*/
 	public void setRate(double rate)
@@ -123,7 +127,7 @@ public class Loan
 		return totalPayment;
 	}
 
-	/** Return the fields formatted
+	/** Return the fields formatted
 	  @return The formatted display of fields
 	*/
 	public String toString()

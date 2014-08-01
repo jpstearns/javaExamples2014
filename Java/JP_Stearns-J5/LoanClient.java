@@ -1,5 +1,5 @@
 /**
-*@author		 Jared Stearns <jared.patrick.stearns@gmail.com>
+*@author		 JP Stearns<https://github.com/JPStearns>
 *@assignment Assignment# Java5-phaseTwo
 *@version	 7.0
 *@since		 2014-06-28
@@ -19,7 +19,7 @@ public class LoanClient
 {
 	public static void main(String[] args)throws IOException
 	{
-		System.out.println("JARED STEARNS\n");
+		System.out.println("JP Stearns\n");
 
 		//Define some new decimal formats
 		DecimalFormat scrilla = new DecimalFormat("$#,##0.00");
@@ -234,7 +234,7 @@ public static void tableBuilder()
 	}
 }
 /*
-JARED STEARNS
+JP Stearns
 
 File name: loandata.txt
 
@@ -332,7 +332,7 @@ Press any key to continue . . .
 ---------------------------------------------------------------------
 TEST ON INVALID INPUT FILE
 
-JARED STEARNS
+JP Stearns
 
 File name: oaisdjfoiasud
 
@@ -342,7 +342,7 @@ Press any key to continue . . .
 ---------------------------------------------------------------------
 TEST ON EMPTY FILE
 
-JARED STEARNS
+JP Stearns
 
 File name: empty.txt
 

@@ -1,7 +1,10 @@
-//Jared Stearns
-//Java -2A 06/02/2014
+/**
+*@author		 JP Stearns<https://github.com/JPStearns>
+*@assignment Assignment# Java2
+*@version	 7.0
+*@since		 2014-06-02
 
-/*This program will calculate the ammount each
+This program will calculate the ammount each
 customer is to be billed for internet service of a
 given month. Default Error messages will end the program
 with invalid input data.*/
@@ -13,7 +16,7 @@ public class InternetBilling
 {
 	public static void main(String[] args)
 		{
-			System.out.println("Jared Stearns\n");
+			System.out.println("JP Stearns\n");
 
 			//Declare Constants and Variables
 			final double	BASE_RATEA = 9.95;
@@ -84,6 +87,7 @@ public class InternetBilling
 						error = true;
 					}
 				}
+
 				//Print Statement pertinent information
 				if (error == false)
 				{
@@ -96,7 +100,7 @@ public class InternetBilling
 
 /*
 Run1:
-Jared Stearns
+JP Stearns
 
 Which Plan <A, B, C,> B
 How many hours? 15.5
@@ -104,7 +108,7 @@ The Charges Are: $14.95
 Press any key to continue . . .
 
 Run:2
-Jared Stearns
+JP Stearns
 
 Which Plan <A, B, C,> b
 How many hours? 35.2
@@ -112,7 +116,7 @@ The Charges Are: $31.67
 Press any key to continue . . .
 
 Run:3
-Jared Stearns
+JP Stearns
 
 Which Plan <A, B, C,> C
 How many hours? 35.2
@@ -120,7 +124,7 @@ The Charges Are: $22.95
 Press any key to continue . . .
 
 Run:4
-Jared Stearns
+JP Stearns
 
 Which Plan <A, B, C,> A
 How many hours? 35.2

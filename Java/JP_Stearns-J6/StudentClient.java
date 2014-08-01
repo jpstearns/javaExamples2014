@@ -1,5 +1,5 @@
 /**
-*@author		 Jared Stearns <jared.patrick.stearns@gmail.com>
+*@author		 JP Stearns<https://github.com/JPStearns>
 *@assignment Assignment: Java6
 *@version	 7.0
 *@since		 2014-07-06
@@ -20,7 +20,7 @@ public class StudentClient
 {
     public static void main( String[] args )
     {
-        System.out.println( "Jared Stearns\n" );
+        System.out.println( "JP Stearns\n" );
 
         Scanner kb = new Scanner( System.in );
 
@@ -146,8 +146,7 @@ public class StudentClient
 
 	//The sortName method will use the (rather lame) Bubble Sorting Technique
 	//to organize the student's names in alphabetical order.
-    public static void sortName( Student[] std )
-    {
+   public static void sortName( Student[] std )
     {
 		 int j;
 		 int tempInt;
@@ -171,7 +170,6 @@ public class StudentClient
 			 }
 		 }
 	 }
-}
 
 	//The sortGrade method will utilize the Bubble Sort technique to
 	//organize the Student Array by highest grade to lowest grade.
@@ -203,7 +201,7 @@ public class StudentClient
 }
 
 /*
-Jared Stearns
+JP Stearns
 
 How many students? 5
 

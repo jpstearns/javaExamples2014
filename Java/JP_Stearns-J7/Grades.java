@@ -1,3 +1,12 @@
+/**
+*@author		 JP Stearns<https://github.com/JPStearns>
+*@assignment Assignment# Java7
+*@version	 7.0
+*@since		 2014-07-013
+
+This is a constructor for the GUI application Statistics calculator
+*/
+
 Public class Grades extends JPanel
 {
 		private JTextField[] testScores;

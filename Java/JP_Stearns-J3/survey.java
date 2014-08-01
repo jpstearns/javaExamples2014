@@ -1,9 +1,12 @@
-//Jared Stearns
-//Java Programming Assignment #3
-//June 13th, 2014
+/**
+*@author		 JP Stearns<https://github.com/JPStearns>
+*@assignment Assignment# Java3
+*@version	 7.0
+*@since		 2014-06-25
 
-//This program will read in survey data from the user, and
-//will organize the results in a dialog box.
+This Program will read in survey data from the user, and
+will organize the results in a dialog box.
+*/
 
 import java.text.DecimalFormat;
 import javax.swing.JOptionPane;
@@ -23,7 +26,7 @@ public class survey
 	public static void main(String[] args)
 	{
 		//Print Author's Name
-		System.out.println("Jared Stearns\n");
+		System.out.println("JP Stearns\n");
 
 		//Declare all variables and constants
 		int agree = 0;
@@ -82,7 +85,7 @@ public class survey
 }
 
 /*
-Jared Stearns
+JP Stearns
 
 RESPONSE        FREQUENCY       PERCENT         HISTOGRAM
  Agree          7               30.43%          *******

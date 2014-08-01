@@ -1,5 +1,5 @@
 /**
-*@author		Jared Stearns <jared.patrick.stearns@gmail.com>
+*@author		JP Stearns<https://github.com/JPStearns>
 *				Assignment# Java5-phaseOne
 *@version	7.0
 *@since		2014-06-22

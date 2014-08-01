@@ -1,8 +1,12 @@
-//Jared Steaerns
-//Assignment Java1
+/**
+*@author		 JP Stearns<https://github.com/JPStearns>
+*@assignment Assignment# Java1
+*@version	 7.0
+*@since		 2014-06-09
 
-//This Program will determine the net profit made
-//when buying and selling stock.
+This program will detirmine the net profit made when
+buying and selling stock.
+*/
 
 
 import java.util.Scanner;
@@ -23,7 +27,8 @@ public class Stocks
 		double	sellingPrice;				//Declare Input variable SellingPrice
 		double	salePrice;					//Declare an initial Sale Price
 
-		System.out.println("Jared Stearns\n");
+		System.out.println("JP Stearns\n");
+
 		//Create a Scanner object to read Input
 		Scanner keyboard = new Scanner(System.in);
 
@@ -77,7 +82,7 @@ public class Stocks
 }
 
 /*
-Jared Stearns
+JP Stearns
 
 How many shares did you purchase? 1000
 What was the price of each share purchased? 35.56
@@ -101,7 +106,7 @@ Overall Profit or Loss:                 $5623.800000000003
 Press any key to continue . . .
 */
 /*
-Jared Stearns
+JP Stearns
 
 How many shares did you purchase? 250
 What was the price of each share purchased? 56.80

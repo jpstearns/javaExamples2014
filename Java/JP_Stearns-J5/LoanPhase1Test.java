@@ -1,4 +1,11 @@
-// LoanPhase1Test.java
+/**
+*@author		 JP Stearns<https://github.com/JPStearns>
+*@assignment Assignment# Java5-phaseOne
+*@version	 7.0
+*@since		 2014-06-28
+*
+LoanPhase1Test: an example of test driven development
+*/
 
 import java.util.Scanner;
 import java.text.DecimalFormat;
